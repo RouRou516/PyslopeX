@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-pip install -e .
+pip install pyslopex.
 ```
 
 依赖：`numpy >= 1.20`，`matplotlib >= 3.3`
