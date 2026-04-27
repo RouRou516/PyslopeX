@@ -1,11 +1,11 @@
 # pyslopex
 
-平面滑动法和折线滑动法（传递系数法）边坡稳定性分析 Python 库。
+2D 边坡平面滑动法和折线滑动法（传递系数法）边坡稳定性分析 Python 库。
 
 ## 安装
 
 ```bash
-pip install pyslopex.
+pip install pyslopex
 ```
 
 依赖：`numpy >= 1.20`，`matplotlib >= 3.3`
